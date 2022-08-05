@@ -4,7 +4,7 @@ Simple example App based on REACT JS + TYPESCRIPT
 
 ## Used technologies:
 
-React JS with Typescript, MUI v. 6.9.3, Axios, React-router-dom v 6
+React JS with Typescript, Context API, MUI v. 6.9.3, Axios, React-router-dom v 6
 
 ## Available Scripts
 
